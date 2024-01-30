@@ -1,3 +1,25 @@
+## Project 2
 
+### 0. Requirements
+This project requires the following packages:
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
 
-Read me file for project 2
+This project is built using Python 3.10.1 in a Jupyter Notebook environment.
+
+### 1. Introduction
+This project's purpose is to help visualise a breakdown of the crime data regarding Austin Texas. This dataset was provided to us from the professor and was taken from 2015.
+
+The corrilations presented in this project include the following:
+1. Median household income and burglary of residence
+2. Median home value and burglary of residence
+3. Months containing the most and least amount of crime
+4. ?
+
+### 2. Data
+The data was provided to us by the professor and was taken from 2015. The data is contained in the CSV file names "crime-housing-austin-2015.csv".
+
+### 3. Analysis
+The analysis of the data is presented in the Jupyter Notebook file named "project 2.ipynb". For a more details, please refer to the project report titled "project2-report.pdf".
