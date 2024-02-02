@@ -6,6 +6,7 @@ This project requires the following packages:
 - `numpy`
 - `matplotlib`
 - `seaborn`
+- `scipy`
 
 This project is built using Python 3.10.1 in a Jupyter Notebook environment.
 
